@@ -13,3 +13,7 @@ https://youtu.be/HtKqSJX7VoM
 Estructura de un proyecto
 https://www.panicoenlaxbox.com/post/organizacion-proyecto-python/
 https://youtu.be/4bPclJNFSEA
+
+Primer uso de GIT
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
