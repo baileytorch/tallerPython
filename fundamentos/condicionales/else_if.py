@@ -12,3 +12,6 @@ elif ingreso_mensual > 1000:
     
 else:
     print("Eres pobre.")
+
+
+    #primera susubda git
