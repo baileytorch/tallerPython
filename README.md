@@ -1,7 +1,6 @@
-# tallerPython
-Taller de Python desde 0
+Programación Orientada a Objetos
 
-Python desde 0
+Python desde 0, muy buen taller para recordar Python... Dura 8 hrs... XD
 https://youtu.be/nKPbfIU442g
 
 Python: Estructuras de datos y POO
@@ -15,5 +14,5 @@ https://www.panicoenlaxbox.com/post/organizacion-proyecto-python/
 https://youtu.be/4bPclJNFSEA
 
 Primer uso de GIT
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
