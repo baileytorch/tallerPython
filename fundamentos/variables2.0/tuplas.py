@@ -1,4 +1,4 @@
-# Creando TUPLAS con TUPLE(), en este caso se le pasa una lista y crea una tupla
+# Creando TUPLAS con TUPLE(), en este caso se le pasa un conjunto y crea una tupla
 # de esta forma se pueden crear tuplas vacías.
 tupla_con_tuple = tuple(["Aquiles","Brinco",2500000])
 
