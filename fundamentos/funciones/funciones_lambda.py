@@ -5,14 +5,12 @@ def es_par(num):
     if(num%2 == 0):
         return True
 
-# Creaundo una función normal para retornar pares
-def es_impar(num):
-    if(num%2 != 0):
-        return True
-
 # Usamos la función FILTER cuyo primer parámetro es una función
 print()
 print(list(filter(es_par,numeros)))
-print(list(filter(es_impar,numeros)))
 
 # Lambda crea funciones anónimas que luego pueden ser almacenadas en una variable
+# Útiles para realizar acciones rápidas
+print()
+numeros_pares = filter(lambda numero:numero%2 == 0,numeros)
+print(list(numeros_pares))
