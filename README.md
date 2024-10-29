@@ -19,22 +19,24 @@ git config --global user.email johndoe@example.com
 
 Para hacer seguimiento... Orden de contenidos:
 tipos_de_datos
-datos-simples.py
+  datos-simples.py
 variables
-variables.py
+  variables.py
 operadores
-op_aritmeticos.py
-op_comparacion.py
-op_logicos.py
+  op_aritmeticos.py
+  op_comparacion.py
+  op_logicos.py
 condicionales
-if_else.py
-else_if.py
+  if_else.py
+  else_if.py
 bucles
-while.py
-otras_iteraciones.py
+  while.py
+  otras_iteraciones.py
 inputs
-input_texto.py
-input_numero.py
+  input_texto.py
+  input_numero.py
 funciones
-funciones.py
-built_in.py
+  funciones.py
+  built_in.py
+
+Para revisar: https://pythones.net
