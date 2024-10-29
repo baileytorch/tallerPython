@@ -20,3 +20,5 @@
 # Booleano
 True
 False
+
+print(type(40))
