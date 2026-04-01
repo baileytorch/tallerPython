@@ -40,3 +40,4 @@ funciones
   built_in.py
 
 Para revisar: https://pythones.net
+Tengo que recordar cerrar mis cuentas, en los equipos 
